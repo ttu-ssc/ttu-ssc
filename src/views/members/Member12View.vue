@@ -17,7 +17,7 @@ const members_info_12 = [
         image: trueURL(""),
         name: "陳柏屹",
         title: "副社長",
-        ig: "boyce.chen0",
+        ig: "boyce.chen03",
         desc: "資工系學生，目前在學習如何通靈。",
         tags: []
     },
