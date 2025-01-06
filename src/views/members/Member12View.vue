@@ -50,7 +50,7 @@ const members_info_12 = [
         name: "蔡詠竣",
         title: "資訊組長",
         ig: "speedcubing.top",
-        desc: "",
+        desc: "資工系學生",
         tags: []
     },
     {
